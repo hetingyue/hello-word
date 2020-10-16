@@ -20,12 +20,7 @@ char* strcpy(char *strDest, const char* strSrc)
 
 }
 /**
-<<<<<<< HEAD
-
+1
 本地编辑
 
 **/
-=======
-远程edit
-**/
->>>>>>> 22e14981a0de50c5d7a7c6f3ec28a4b2e980fec8
